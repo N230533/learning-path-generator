@@ -1,0 +1,308 @@
+[
+  {
+    "id": "20261101185216825741",
+    "time": "01 Nov 2026, 06:52 PM",
+    "topic": "Machine Learning",
+    "level": "Beginner",
+    "hours": 5,
+    "path": [
+      {
+        "stage": 1,
+        "title": "Python & Math Foundations",
+        "description": "Learn the essential Python programming skills and refresh foundational math concepts (linear algebra, calculus, statistics) crucial for understanding machine learning algorithms.",
+        "resources": [
+          "Codecademy Python 3 Course",
+          "Khan Academy (Linear Algebra, Calculus, Statistics)"
+        ],
+        "youtube_searches": [
+          "Codecademy Python 3 review",
+          "Khan Academy Linear Algebra explained"
+        ],
+        "duration_weeks": 3,
+        "videos": [
+          {
+            "name": "Codecademy Python 3 Course",
+            "url": "https://www.youtube.com/results?search_query=Codecademy+Python+3+review"
+          },
+          {
+            "name": "Khan Academy (Linear Algebra, Calculus, Statistics)",
+            "url": "https://www.youtube.com/results?search_query=Khan+Academy+Linear+Algebra+explained"
+          }
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "ML Concepts & Workflow",
+        "description": "Understand what machine learning is, its main types (supervised, unsupervised, reinforcement), common terminology, and the typical end-to-end workflow of an ML project.",
+        "resources": [
+          "Andrew Ng's Machine Learning Course (Coursera)",
+          "Google's Machine Learning Crash Course"
+        ],
+        "youtube_searches": [
+          "Andrew Ng Machine Learning course overview",
+          "Google ML Crash Course introduction"
+        ],
+        "duration_weeks": 2,
+        "videos": [
+          {
+            "name": "Andrew Ng's Machine Learning Course (Coursera)",
+            "url": "https://www.youtube.com/results?search_query=Andrew+Ng+Machine+Learning+course+overview"
+          },
+          {
+            "name": "Google's Machine Learning Crash Course",
+            "url": "https://www.youtube.com/results?search_query=Google+ML+Crash+Course+introduction"
+          }
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Predictive Modeling with Regression",
+        "description": "Dive into supervised learning by exploring regression algorithms like Linear Regression, understanding how to build models to predict continuous values, and evaluating their performance.",
+        "resources": [
+          "Scikit-learn documentation (User Guide - Linear Models)",
+          "StatQuest with Josh Starmer (YouTube channel)"
+        ],
+        "youtube_searches": [
+          "Scikit-learn Linear Regression tutorial",
+          "StatQuest Linear Regression explained"
+        ],
+        "duration_weeks": 3,
+        "videos": [
+          {
+            "name": "Scikit-learn documentation (User Guide - Linear Models)",
+            "url": "https://www.youtube.com/results?search_query=Scikit-learn+Linear+Regression+tutorial"
+          },
+          {
+            "name": "StatQuest with Josh Starmer (YouTube channel)",
+            "url": "https://www.youtube.com/results?search_query=StatQuest+Linear+Regression+explained"
+          }
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Categorical Prediction with Classification",
+        "description": "Learn about classification algorithms such as Logistic Regression and Decision Trees, applying them to predict categorical outcomes and understanding metrics for evaluating classification models.",
+        "resources": [
+          "Scikit-learn documentation (User Guide - Classification)",
+          "Kaggle Learn (Intro to Machine Learning - Classification)"
+        ],
+        "youtube_searches": [
+          "Scikit-learn Logistic Regression tutorial",
+          "Kaggle Learn classification walkthrough"
+        ],
+        "duration_weeks": 3,
+        "videos": [
+          {
+            "name": "Scikit-learn documentation (User Guide - Classification)",
+            "url": "https://www.youtube.com/results?search_query=Scikit-learn+Logistic+Regression+tutorial"
+          },
+          {
+            "name": "Kaggle Learn (Intro to Machine Learning - Classification)",
+            "url": "https://www.youtube.com/results?search_query=Kaggle+Learn+classification+walkthrough"
+          }
+        ]
+      },
+      {
+        "stage": 5,
+        "title": "Discovering Patterns with Unsupervised Learning",
+        "description": "Explore unsupervised learning techniques, focusing on clustering algorithms like K-Means to identify hidden patterns and groupings within unlabeled datasets.",
+        "resources": [
+          "Scikit-learn documentation (User Guide - Clustering)",
+          "StatQuest with Josh Starmer (YouTube channel)"
+        ],
+        "youtube_searches": [
+          "Scikit-learn K-Means clustering example",
+          "StatQuest K-Means Clustering explained"
+        ],
+        "duration_weeks": 2,
+        "videos": [
+          {
+            "name": "Scikit-learn documentation (User Guide - Clustering)",
+            "url": "https://www.youtube.com/results?search_query=Scikit-learn+K-Means+clustering+example"
+          },
+          {
+            "name": "StatQuest with Josh Starmer (YouTube channel)",
+            "url": "https://www.youtube.com/results?search_query=StatQuest+K-Means+Clustering+explained"
+          }
+        ]
+      },
+      {
+        "stage": 6,
+        "title": "Optimizing Model Performance",
+        "description": "Understand key metrics for evaluating machine learning models, learn techniques like cross-validation for robust assessment, and explore hyperparameter tuning to improve model performance.",
+        "resources": [
+          "Scikit-learn documentation (Model evaluation)",
+          "Machine Learning Mastery (Blog posts on evaluation metrics)"
+        ],
+        "youtube_searches": [
+          "Scikit-learn model evaluation metrics",
+          "Machine Learning Mastery cross-validation explained"
+        ],
+        "duration_weeks": 2,
+        "videos": [
+          {
+            "name": "Scikit-learn documentation (Model evaluation)",
+            "url": "https://www.youtube.com/results?search_query=Scikit-learn+model+evaluation+metrics"
+          },
+          {
+            "name": "Machine Learning Mastery (Blog posts on evaluation metrics)",
+            "url": "https://www.youtube.com/results?search_query=Machine+Learning+Mastery+cross-validation+explained"
+          }
+        ]
+      },
+      {
+        "stage": 7,
+        "title": "Basics of Deep Learning",
+        "description": "Get an introductory overview of neural networks, understanding their fundamental structure and how they form the basis of deep learning for more complex pattern recognition tasks.",
+        "resources": [
+          "DeepLearning.AI (Andrew Ng's Deep Learning Specialization)",
+          "3Blue1Brown (Neural Networks series on YouTube)"
+        ],
+        "youtube_searches": [
+          "Andrew Ng Deep Learning Specialization overview",
+          "3Blue1Brown neural networks explained"
+        ],
+        "duration_weeks": 3,
+        "videos": [
+          {
+            "name": "DeepLearning.AI (Andrew Ng's Deep Learning Specialization)",
+            "url": "https://www.youtube.com/results?search_query=Andrew+Ng+Deep+Learning+Specialization+overview"
+          },
+          {
+            "name": "3Blue1Brown (Neural Networks series on YouTube)",
+            "url": "https://www.youtube.com/results?search_query=3Blue1Brown+neural+networks+explained"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20261101162116549819",
+    "time": "01 Nov 2026, 04:21 PM",
+    "topic": "DSA for interview",
+    "level": "Intermediate",
+    "hours": 15,
+    "path": [
+      {
+        "stage": 1,
+        "title": "Core DS & Foundational Problem Solving",
+        "description": "Revisit essential data structures like arrays, strings, linked lists, stacks, queues, and hash maps, focusing on their operations, complexities, and common interview patterns.",
+        "resources": [
+          "LeetCode",
+          "GeeksforGeeks"
+        ],
+        "youtube_searches": [
+          "LeetCode easy array problems explained",
+          "GeeksforGeeks data structures tutorial"
+        ],
+        "duration_weeks": 2,
+        "videos": [
+          {
+            "name": "LeetCode",
+            "url": "https://www.youtube.com/results?search_query=LeetCode+easy+array+problems+explained"
+          },
+          {
+            "name": "GeeksforGeeks",
+            "url": "https://www.youtube.com/results?search_query=GeeksforGeeks+data+structures+tutorial"
+          }
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "Trees & Graphs: Traversal and Algorithms",
+        "description": "Dive into tree structures (BST, Heaps, Tries) and graph representations, mastering traversal algorithms like DFS and BFS, and fundamental graph algorithms.",
+        "resources": [
+          "LeetCode",
+          "HackerRank"
+        ],
+        "youtube_searches": [
+          "LeetCode tree problems explained",
+          "HackerRank graph algorithms tutorial"
+        ],
+        "duration_weeks": 3,
+        "videos": [
+          {
+            "name": "LeetCode",
+            "url": "https://www.youtube.com/results?search_query=LeetCode+tree+problems+explained"
+          },
+          {
+            "name": "HackerRank",
+            "url": "https://www.youtube.com/results?search_query=HackerRank+graph+algorithms+tutorial"
+          }
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Advanced Algorithms & Techniques",
+        "description": "Explore advanced algorithmic paradigms including Dynamic Programming, Backtracking, Greedy algorithms, and Divide and Conquer, essential for complex interview problems.",
+        "resources": [
+          "GeeksforGeeks",
+          "LeetCode"
+        ],
+        "youtube_searches": [
+          "Dynamic Programming tutorial for interviews",
+          "LeetCode hard DP problems explained"
+        ],
+        "duration_weeks": 3,
+        "videos": [
+          {
+            "name": "GeeksforGeeks",
+            "url": "https://www.youtube.com/results?search_query=Dynamic+Programming+tutorial+for+interviews"
+          },
+          {
+            "name": "LeetCode",
+            "url": "https://www.youtube.com/results?search_query=LeetCode+hard+DP+problems+explained"
+          }
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Common Interview Patterns & Optimization",
+        "description": "Focus on recognizing and applying common interview patterns like Two Pointers, Sliding Window, and Bit Manipulation, alongside optimizing solutions for time and space complexity.",
+        "resources": [
+          "LeetCode (Explore sections)",
+          "freeCodeCamp"
+        ],
+        "youtube_searches": [
+          "LeetCode two pointers pattern",
+          "freeCodeCamp data structures algorithms"
+        ],
+        "duration_weeks": 2,
+        "videos": [
+          {
+            "name": "LeetCode (Explore sections)",
+            "url": "https://www.youtube.com/results?search_query=LeetCode+two+pointers+pattern"
+          },
+          {
+            "name": "freeCodeCamp",
+            "url": "https://www.youtube.com/results?search_query=freeCodeCamp+data+structures+algorithms"
+          }
+        ]
+      },
+      {
+        "stage": 5,
+        "title": "Mock Interviews & System Design Overview",
+        "description": "Practice applying learned DSA concepts in mock interview settings, refine problem-solving communication, and gain a foundational understanding of system design principles.",
+        "resources": [
+          "Pramp",
+          "freeCodeCamp"
+        ],
+        "youtube_searches": [
+          "Pramp mock interview tips",
+          "freeCodeCamp system design basics"
+        ],
+        "duration_weeks": 2,
+        "videos": [
+          {
+            "name": "Pramp",
+            "url": "https://www.youtube.com/results?search_query=Pramp+mock+interview+tips"
+          },
+          {
+            "name": "freeCodeCamp",
+            "url": "https://www.youtube.com/results?search_query=freeCodeCamp+system+design+basics"
+          }
+        ]
+      }
+    ]
+  }
+]
